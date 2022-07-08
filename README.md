@@ -4,6 +4,10 @@ Credits to Henk Boelman (MSFT) for the data, training & scoring script.
 The code within this repository gives you a small example how to build & deploy an ML model with the Azure ML v1 SDK.
 Note: v2 is in Preview and nothing of this code will work anymore
 
+Slides to the presentation can be found [here](slides/Slides.pdf)
+
+**Project Definition**: Training a classification model to recogize Lego Simpson avatars.
+
 ## Step 1: Deployment of the resources on Azure
 Big fan of IAC (Infrastructure as Code), therefore I fully scripted the environment that I need to run this project in BICEP.
 To be able to execute this code you need to have installed the AZ CLI.
