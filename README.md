@@ -1,6 +1,4 @@
 ## MLOps Talk
-Credits to Henk Boelman (MSFT) for the data, training & scoring script.
-
 The code within this repository gives you a small example how to build & deploy an ML model with the Azure ML v1 SDK.
 Note: v2 is in Preview and nothing of this code will work anymore
 
@@ -73,3 +71,6 @@ As a response you should receive following details:
   }
 }
 ```
+
+
+*Credits to [Henk Boelman (MSFT)](https://github.com/hnky) for the data, training & scoring script.*
